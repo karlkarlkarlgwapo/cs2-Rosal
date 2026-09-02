@@ -2,7 +2,6 @@
 import math
 
 #//Coordinates of Points//#
-
 #Ask coordinates for point 1
 
 point_x1 = float(input("Enter x1: "))
